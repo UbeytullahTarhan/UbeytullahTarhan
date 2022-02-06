@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=UbeytullahTarhan)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=UbeytullahTarhan)   ![Github stats](https://github-readme-stats.vercel.app/api?username=UbeytullahTarhan&theme=highcontrast&show_icons=true&count_private=true)
