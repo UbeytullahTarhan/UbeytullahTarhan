@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 -->
-- 🔭 I’m currently working on .Net Web Api
+- 🔭 I’m currently working on .Net and Java
 - 🌱 I’m currently learning Full Stack Developer
 
 
